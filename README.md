@@ -31,9 +31,6 @@ VGG13	from scratch	3.55	0.9795
 VGG13	deep	3.55	0.9949
 NOTE: For more results, refer to stats.csv
 
-Visualization Experiments
-Contributor: Brahimi Mohamed
-
 Prerequisites:
 Train the new model or download pretrained models on 10 classes of Tomato from the PlantVillage dataset: AlexNet or VGG13.
 
